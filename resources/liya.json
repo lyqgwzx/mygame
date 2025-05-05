@@ -1,0 +1,32 @@
+{
+    "resolution": {
+        "width": 3200,
+        "height": 2400
+    },
+    "tiles": [
+        {
+            "category": "地面类",
+            "tile": "土路",
+            "x": -109,
+            "y": -115,
+            "scale": 1.0,
+            "angle": 0
+        },
+        {
+            "category": "生物类",
+            "tile": "狐狸",
+            "x": 0,
+            "y": 245,
+            "scale": 0.25,
+            "angle": 0
+        },
+        {
+            "category": "地面类",
+            "tile": "树",
+            "x": 194,
+            "y": 161,
+            "scale": 0.25,
+            "angle": 0
+        }
+    ]
+}
